@@ -1,0 +1,20 @@
+{
+  "name": "test_pr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.0.1",
+    "node-fetch": "^3.3.2",
+    "sinon": "^19.0.2",
+    "sinon-chai": "^4.0.0"
+  }
+}
